@@ -32,7 +32,7 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
 1. **Single Image Deraining: From Model-Based to Data-Driven and Beyond.**  TPAMI. 
 
-   *Yang Wenhan, T. Tan Robby, Wang Shiqi, Fang Yuming, and Liu Jiaying.*  [[pdf](https://arxiv.org/pdf/1912.07150.pdf)], [[cite]]([Single Image Deraining: From Model-Based to Data-Driven... - Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Single+Image+Deraining%3A+From+Model-Based+to+Data-Driven+and+Beyond&btnG=)), 2021. 
+   *Yang Wenhan, T. Tan Robby, Wang Shiqi, Fang Yuming, and Liu Jiaying.*  [[pdf]](https://arxiv.org/pdf/1912.07150.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Single+Image+Deraining%3A+From+Model-Based+to+Data-Driven+and+Beyond&btnG=), 2021. 
 
 ### Learning Based
 
