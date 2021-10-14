@@ -12,12 +12,12 @@ Must-read papers on Image de-raining which include recent prior based and learni
   - [Papers](#papers)
     - [Survey](#Survey)
     - [Learning based](#Learning%20Based)
-      - [Linear Decompostion](#Linear Decomposition)
-      - [Generation Model](#Generation Model)
-      - [Recurrent Model](#Recurrent Model)
-    - [Prior Based](#Prior Based)
-    - [Hybrid](#hybrid)
-    - [Image de-raining meets high level vision](#High Level)
+      - [Linear Decompostion](#Linear%20Decomposition)
+      - [Generation Model](#Generation%20Model)
+      - [Recurrent Model](#Recurrent%20Model)
+    - [Prior Based](#Prior%20Based)
+    - [Hybrid](#Hybrid)
+    - [Image de-raining meets high level vision](#High%20Level)
   - [Other Contributors](#other-contributors)
 
 
