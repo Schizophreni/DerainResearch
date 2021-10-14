@@ -11,7 +11,7 @@ Must-read papers on Image de-raining which include recent prior based and learni
   - [Introduction](#introduction)
   - [Papers](#papers)
     - [Survey](#Survey)
-    - [Learning based](#Learning%20Based)
+    - [Learning Based](#Learning%20Based)
       - [Linear Decompostion](#Linear%20Decomposition)
       - [Generation Model](#Generation%20Model)
       - [Recurrent Model](#Recurrent%20Model)
