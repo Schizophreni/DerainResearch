@@ -13,7 +13,7 @@ Must-read papers on Image de-raining which include recent prior based and learni
     - [Survey](#Survey)
     - [Learning based](#Learning-Based)
       - [Linear Decompostion](#Linear-Decomposition)
-      - [Generation Model](#Generation-Model)
+      - [Generative Model](#Generative-Model)
       - [Recurrent Model](#Recurrent-Model)
     - [Prior Based](#Prior-Based)
     - [Hybrid](#Hybrid)
@@ -140,7 +140,7 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
     ****
 
-#### Generation Model
+#### Generative Model
 
 1. **Semi-Supervised Video Deraining with Dynamical Rain Generator. (S2VD) ** CVPR. ![](https://img.shields.io/badge/video-orange) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green) 
 
