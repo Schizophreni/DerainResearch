@@ -1,6 +1,6 @@
 # Image De-raining papers
 
-![](https://img.shields.io/badge/recent%20update-2021%20Oct.-red) ![](https://img.shields.io/badge/PaperNumber-36-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/badge/Issues-Welcome-red) 
+![](https://img.shields.io/badge/recent%20update-2021%20Oct.-red) ![](https://img.shields.io/badge/PaperNumber-40-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/badge/Issues-Welcome-red) 
 
 Papers on Image de-raining which include recent prior based and learning based methods. The paper list is mainly maintained by  [Schizophreni](https://github.com/Schizophreni/). We have merged the paper listed in [DerainZoo](https://github.com/nnUyi/DerainZoo) and re-organized recent papers for better comparison and understanding.  Note that this list is also friendly for writing introduction or related work of your academic paper. 
 
@@ -38,7 +38,6 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
    *Wang Hong, Wu Yichen, Li Minghan, Zhao Qian, and Meng Deyu.* [[pdf]](https://arxiv.org/pdf/1909.08326.pdf) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Survey+on+Rain+Removal+from+Video+and+Single+Image&btnG=), 2019.
 
-   
 
 ### Learning Based
 
@@ -152,11 +151,6 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
     *Yu Weijiang, Huang Zhe, Zhang Wayne, Feng Litong, and Xiao Nong.* [[pdf]](https://arxiv.org/pdf/1909.09677.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Gradual+Network+for+Single+Image+De-raining&btnG=), 2019.
 
-28. 
-
-    
-
-    ****
 
 #### Generation Model
 
@@ -176,7 +170,6 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
    *Ni Siqi, Cao Xueyun, Yue Tao, and Hu Xuemei*. [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ni_Controlling_the_Rain_From_Removal_to_Rendering_CVPR_2021_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Controlling+the+Rain%3A+from+Removal+to+Rendering&btnG=), 2021.
 
-5. 
 
 #### Recurrent Model
 
@@ -186,7 +179,7 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
 2. **Single Image Deraining via Recurrent Hierarchy and Enhancement Network. (ReHEN)** ACM'MM. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
-​      *Yang Youzhao, and Lu Hong.* [[pdf]](https://dl.acm.org/doi/10.1145/3343031.3351149#URLTOKEN#)  [[github]](https://github.com/nnUyi/ReHEN) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Single+Image+Deraining+via+Recurrent+Hierarchy+Enhancement+Network&btnG=), 2019.
+   *Yang Youzhao, and Lu Hong.* [[pdf]](https://dl.acm.org/doi/10.1145/3343031.3351149#URLTOKEN#)  [[github]](https://github.com/nnUyi/ReHEN) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Single+Image+Deraining+via+Recurrent+Hierarchy+Enhancement+Network&btnG=), 2019.
 
 
 
@@ -196,7 +189,6 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
    *Ran Wu, Yang Youzhao, Lu Hong.* [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9102800) [[github]](https://github.com/Schizophreni/Set-vanish-to-the-rain) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Single+Image+Rain+Removal+Boosting+via+Directional+Gradient&btnG=), 2020.
 
-2. 
 
 ### Hybrid
 
@@ -212,7 +204,6 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
    *Yang Wenhan, Liu Jiaying, Yang Shuai, and Guo Zongming.* [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8610325) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Scale-Free+Single+Image+Deraining+Via+Visibility%02Enhanced+Recurrent+Wavelet+Learnin&btnG=), 2019.
 
-4. 
 
 ### High Level
 
@@ -231,8 +222,6 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 4. **RainFlow: Optical Flow under Rain Streaks and Rain Veiling Effect. (RainFlow)** ICCV. ![](https://img.shields.io/badge/single%20image-purple)
 
    *Li Ruoteng, T. Tan Robby, Cheong Loong-Fah, I. Aviles-Rivero Angelica, Fan Qingnan, and Schonlieb Carola-Bibiane.* [[pdf]](https://fqnchina.github.io/QingnanFan_files/iccv_2019.pdf) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=RainFlow%3A+Optical+Flow+under+Rain+Streaks+and+Rain+Veiling+Effect&btnG=), 2019.
-
-5. 
 
 
 ## Other Contributors
