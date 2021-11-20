@@ -20,7 +20,7 @@ Papers on Image de-raining which include recent prior based and learning based m
     - [Image de-raining meets high level vision](#High-Level)
   - [Other Contributors](#Other-Contributors)
 
-
+- **_News (2021-09-09)_**: Github Repo for PIGWM is available now!
 
 ## Introduction
 
