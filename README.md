@@ -208,7 +208,7 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
 4. **Single Image Deraining using a Recurrent Multi-scale Aggregation and Enhancement Network. (ReMAEN)** ICME. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/pre%20train-green)  
 
-   *Yang Youzhao, and Lu Hong.* [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8784948)
+   *Yang Youzhao, and Lu Hong.* [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8784948) [[github]](https://github.com/nnUyi/ReMAEN) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Single+Image+Deraining+using+a+Recurrent+Multi-scale+Aggregation+and+Enhancement+Network&btnG=), 2019.
 
 
 
