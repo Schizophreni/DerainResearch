@@ -1,36 +1,36 @@
-# Image De-raining papers
+<h1><font face="Times New Roman">Image De-raining papers</font><h1>
 
-![](https://img.shields.io/badge/recent%20update-2021%20Oct.-red) ![](https://img.shields.io/badge/PaperNumber-49-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/badge/Issues-Welcome-red) 
+![](https://img.shields.io/badge/recent%20update-2021%20Oct.-red) ![](https://img.shields.io/badge/PaperNumber-36-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/badge/Issues-Welcome-red) 
 
-Papers on Image de-raining which include recent prior based and learning based methods. The paper list is mainly maintained by  [Schizophreni](https://github.com/Schizophreni/). We have merged the paper listed in [DerainZoo](https://github.com/nnUyi/DerainZoo) and re-organized recent papers for better comparison and understanding.  Note that this list is also friendly for writing introduction or related work of your academic paper. 
+<font face="Times New Roman" size=4>Papers on Image de-raining which include recent prior based and learning based methods. The paper list is mainly maintained by  [Schizophreni](https://github.com/Schizophreni/). We have merged the paper listed in [DerainZoo](https://github.com/nnUyi/DerainZoo) and re-organized recent papers for better comparison and understanding.  Note that this list is also friendly for writing introduction or related work of your academic paper. </font>
 
-## Contents
+<h2><font face="Times New Roman" color="#b22222">Contents</font></h2>
 
-- [Image de-raining papers](#derainpapers)
-  - [Contents](#contents)
-  - [Introduction](#introduction)
-  - [Papers](#papers)
-    - [Survey](#Survey)
-    - [Learning based](#Learning-Based)
-      - [Linear Decompostion](#Linear-Decomposition)
-      - [Generation Model](#Generation-Model)
-      - [Recurrent Model](#Recurrent-Model)
-    - [Prior Based](#Prior-Based)
-    - [Hybrid](#Hybrid)
-    - [Image de-raining meets high level vision](#High-Level)
-  - [Other Contributors](#Other-Contributors)
+- [<font face="Times New Roman" size=4 color="black"><b>Image de-raining papers</b></font>](#derainpapers)
+  - [<font face="Times New Roman" size=4 color="black"><b>Contents</b></font>](#contents)
+  - [<font face="Times New Roman" size=4 color="black"><b>Introduction</b></font>](#introduction)
+  - [<font face="Times New Roman" size=4 color="black"><b>Papers</b></font>](#papers)
+    - [<font face="Times New Roman" size=4 color="black"><b>Survey</b></font>](#Survey)
+    - [<font face="Times New Roman" size=4 color="black"><b>Learning-based Methods</b></font>](#Learning-Based)
+      - [<font face="Times New Roman" size=4 color="black"><b>Linear Decompostion</b></font>](#Linear-Decomposition)
+      - [<font face="Times New Roman" size=4 color="black"><b>Generative Model</b></font>](#Generation-Model)
+      - [<font face="Times New Roman" size=4 color="black"><b>Recurrent Model</b></font>](#Recurrent-Model)
+    - [<font face="Times New Roman" size=4 color="black"><b>Prior-based Methods</b></font>](#Prior-Based)
+    - [<font face="Times New Roman" size=4 color="black"><b>Hybrid</b></font>](#Hybrid)
+    - [<font face="Times New Roman" size=4 color="black"><b>Image de-raining meets high level vision</b></font>](#High-Level)
+  - [<font face="Times New Roman" size=4 color="black"><b>Other Contributors</b></font>](#Other-Contributors)
 
 
 
-***News (2021-11-20)***: *Github Repo for PIGWM is available now!*
+***News (2021-11-20)***: <font face="Gabriola" size=5 color="#2E86C1"><b>Github Repo for PIGWM is available now!</b></font>
 
-## Introduction
+<h2><font face="Times New Roman" color="#b22222">Introduction</font></h2>
 
-This is a paper list about *image de-raining* researches. Image de-raining focuses on restoring the clean background given the rain-contaminated images as input. The basic assumption for image de-raining is that the information required for recovering the degraded pixels can be extracted from its neighbors.
+<font face="Times New Roman" color="black" size=4>This is a paper list about *image de-raining* researches. Image de-raining focuses on restoring the clean background given the rain-contaminated images as input. The basic assumption for image de-raining is that the information required for recovering the degraded pixels can be extracted from its neighbors.</font>
 
-## Papers
+<h2><font face="Times New Roman" color="#b22222">Papers</font></h2>
 
-### Survey
+<h2><font face="Times New Roman" color="#b22222">Survey</font></h2>
 
 1. **Single Image Deraining: From Model-Based to Data-Driven and Beyond.**  TPAMI. 
 
