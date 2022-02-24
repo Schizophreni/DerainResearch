@@ -1,6 +1,6 @@
 # Image De-raining papers
 
-![](https://img.shields.io/badge/recent%20update-2022%20Jan.-red) ![](https://img.shields.io/badge/PaperNumber-51-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/badge/Issues-Welcome-red) 
+![](https://img.shields.io/badge/recent%20update-2022%20Jan.-red) ![](https://img.shields.io/badge/PaperNumber-52-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/badge/Issues-Welcome-red) 
 
 Papers on Image de-raining which include recent prior based and learning based methods. The paper list is mainly maintained by  [Schizophreni](https://github.com/Schizophreni/). We have merged the paper listed in [DerainZoo](https://github.com/nnUyi/DerainZoo) and re-organized recent papers for better comparison and understanding.  Note that this list is also friendly for writing introduction or related work of your academic paper. 
 
@@ -48,127 +48,131 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
 #### Linear Decomposition
 
-1. **Structure-Preserving Deraining with Residue Channel Prior Guidance. (SPDNet)** ICCV. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+1. **Online-updated High-order Collaborative Networks for Single Image Deraining. (HCNet)** AAAI. ![](https://img.shields.io/badge/single%20image-purple)
+
+   *Wang Cong, Pan Jinshan, and Wu Xiao-Ming.* [[pdf]](https://arxiv.org/pdf/2202.06568.pdf), 2022.
+
+2. **Structure-Preserving Deraining with Residue Channel Prior Guidance. (SPDNet)** ICCV. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
    *Yi Qiaosi, Li Juncheng, Dai Qinyan, Fang Faming, Zhang Guixu, and Zeng Tieyong*. [[pdf]](https://junchenglee.com/paper/ICCV_2021.pdf), [[github]](https://github.com/Joyies/SPDNet), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Structure-Preserving+Deraining+with+Residue+Channel+Prior+Guidance&btnG=), 2021.
 
-2. **Unpaired Learning for Deep Image Deraining With Rain Direction Regularizer** ICCV. ![](https://img.shields.io/badge/single%20image-purple)
+3. **Unpaired Learning for Deep Image Deraining With Rain Direction Regularizer** ICCV. ![](https://img.shields.io/badge/single%20image-purple)
 
    *Liu Yang, Yue Ziyu, Pan Jinshan, and Su Zhixun.* [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Unpaired_Learning_for_Deep_Image_Deraining_With_Rain_Direction_Regularizer_ICCV_2021_paper.pdf), [[github]](https://github.com/Yueziyu/RainDirection-and-Real3000-Dataset), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unpaired+Learning+for+Deep+Image+Deraining+with+Rain+Direction+Regularizer&btnG=), 2021.
 
-3. **Spatially-Adaptive Image Restoration using Distortion-Guided Networks. (SPAIR)** ICCV. ![](https://img.shields.io/badge/single%20image-purple)
+4. **Spatially-Adaptive Image Restoration using Distortion-Guided Networks. (SPAIR)** ICCV. ![](https://img.shields.io/badge/single%20image-purple)
 
    *Purohit Kuldeep, Suin Maitreya, A.N. Rajagopalan, and Vishnu Naresh Boddeti.* [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Purohit_Spatially-Adaptive_Image_Restoration_Using_Distortion-Guided_Networks_ICCV_2021_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Spatially-Adaptive+Image+Restoration+using+Distortion-Guided+Networks&btnG=), 2021.
 
-4. **Improving De-raining Generalization via Neural Reorganization. (NR)** ICCV. ![](https://img.shields.io/badge/single%20image-purple)
+5. **Improving De-raining Generalization via Neural Reorganization. (NR)** ICCV. ![](https://img.shields.io/badge/single%20image-purple)
 
    *Xiao Jie, Zhou Man, Fu Xueyang, Liu Aiping, and Zha Zheng-Jun.* [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiao_Improving_De-Raining_Generalization_via_Neural_Reorganization_ICCV_2021_paper.pdf) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FICCV2021%2Fpapers%2FXiao_Improving_De-Raining_Generalization_via_Neural_Reorganization_ICCV_2021_paper.pdf&btnG=#d=gs_cit&u=%2Fscholar%3Fq%3Dinfo%3AH14kj_iZ88cJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den), 2021.
 
-5. **Robust Representation Learning with Feedback for Single Image Deraining. (RLNet)** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue)
+6. **Robust Representation Learning with Feedback for Single Image Deraining. (RLNet)** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue)
 
    *Chen Chenghao, and Li Hao.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Robust_Representation_Learning_With_Feedback_for_Single_Image_Deraining_CVPR_2021_paper.pdf) [[github]](https://github.com/LI-Hao-SJTU/DerainRLNet) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Robust+Representation+Learning+with+Feedback+for+Single+Image+Deraining&btnG=), 2021.
 
-6. **Image De-raining via Continual Learning. (PIGWM)** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue)
+7. **Image De-raining via Continual Learning. (PIGWM)** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue)
 
    *Zhou Man, Xiao Jie, Chang Yifan, Fu Xueyang, Liu Aiping, Pan Jinshan, and Zha Zheng-Jun.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Image_De-Raining_via_Continual_Learning_CVPR_2021_paper.pdf) [[github]](https://github.com/unpairdenosie/Image-Deraining-via-Continual-Learning) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Image+De-raining+via+Continual+Learning&btnG=), 2021.
 
-7. **Removing Raindrops and Rain Streaks in One Go. (CCN)** CVPR. ![](https://img.shields.io/badge/single%20image-purple)
+8. **Removing Raindrops and Rain Streaks in One Go. (CCN)** CVPR. ![](https://img.shields.io/badge/single%20image-purple)
 
    *Quan Ruijie, Yu Xin, Liang Yuanzhi, and Yang Yi*. [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Quan_Removing_Raindrops_and_Rain_Streaks_in_One_Go_CVPR_2021_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=**Removing+Raindrops+and+Rain+Streaks+in+One+Go&btnG=), 2021.
 
-8. **Multi-Stage Progressive Image Restoration. (MPRNet)** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+9. **Multi-Stage Progressive Image Restoration. (MPRNet)** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
    *Zamir Syed Waqas, Arora Aditya, Khan Salman, Hayat Munawar, Khan Fahad Shabaz, Yang Ming-Hsuan, and Shao Ling.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zamir_Multi-Stage_Progressive_Image_Restoration_CVPR_2021_paper.pdf), [[github]](https://github.com/swz30/MPRNet), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Multi-Stage+Progressive+Image+Restoration&btnG=), 2021.
 
-9. **Rain Streak Removal via Dual Graph Convolutional Network. (DualGCN)** AAAI. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue)
+10. **Rain Streak Removal via Dual Graph Convolutional Network. (DualGCN)** AAAI. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue)
 
-   *Fu Xueyang, Qi Qi, Zha Zheng-Jun, Zhu Yurui, and Ding Xinghao*. [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-228.FuXY.pdf), [[github]](https://xueyangfu.github.io/paper/2021/AAAI/code.zip), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Rain+Streak+Removal+via+Dual+Graph+Convolutional+Network.&btnG=), 2021. 
+    *Fu Xueyang, Qi Qi, Zha Zheng-Jun, Zhu Yurui, and Ding Xinghao*. [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-228.FuXY.pdf), [[github]](https://xueyangfu.github.io/paper/2021/AAAI/code.zip), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Rain+Streak+Removal+via+Dual+Graph+Convolutional+Network.&btnG=), 2021. 
 
-10. **Pre-Trained Image Processing Transformer. (IPT)** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/transformer-black)
+11. **Pre-Trained Image Processing Transformer. (IPT)** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/transformer-black)
 
     *Chen Hanting, Wang Yunhe, Guo Tianyu, Xu Chang, Deng Yipeng, Liu Zhenhua, Ma Siwei, Xu Chunjing, Xu Chao, and Gao Wen*. [[pdf]]([2012.00364.pdf (arxiv.org)](https://arxiv.org/pdf/2012.00364.pdf)), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Pre-Trained+Image+Processing+Transformer&btnG=), 2021.
 
-11. **Unpaired Adversarial Learning for Single Image Deraining with Rain-Space Contrastive Constraints. (CDR-GAN)** arXiv. ![](https://img.shields.io/badge/single%20image-purple)
+12. **Unpaired Adversarial Learning for Single Image Deraining with Rain-Space Contrastive Constraints. (CDR-GAN)** arXiv. ![](https://img.shields.io/badge/single%20image-purple)
 
     *Chen Xiang, Pan Jinshan, Jiang Kui, Huang Yufeng, Kong Caihua, Dai Longgang, and Li Yufeng.*[[pdf]](https://arxiv.org/abs/2109.02973), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unpaired+adversarial+learning+for+single+image+deraining+with+rain-space+contrastive+constraints.&btnG=#d=gs_cit&u=%2Fscholar%3Fq%3Dinfo%3Am1qUPIuQEkcJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den), 2021.
 
-12. **SDNET: Multi-Branch for Single Image Deraining Using Swin. (SDNet).** arXiv. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/transformer-black)
+13. **SDNET: Multi-Branch for Single Image Deraining Using Swin. (SDNet).** arXiv. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/transformer-black)
 
      *Tan Fuxiang, Kong Yuting, Fan Yingying, Liu Feng, Zhou Daxin, Zhang Hao, Chen Long, and Gao Liang.* [[pdf]](https://arxiv.org/pdf/2105.15077.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SDNET%3A+Multi-branch+for+single+image+deraining+using+swin&btnG=), 2021.
 
-13. **Rain Removal and Illumination Enhancement Done in One Go. (EMNet)** arXiv. ![](https://img.shields.io/badge/single%20image-purple)
+14. **Rain Removal and Illumination Enhancement Done in One Go. (EMNet)** arXiv. ![](https://img.shields.io/badge/single%20image-purple)
 
      *Wan Yecong, Cheng Yuanshuo, and Shao Mingwen.*[[pdf]](https://arxiv.org/abs/2108.03873), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Rain+Removal+and+Illumination+Enhancement+Done+in+One+Go&btnG=), 2021.
 
-14. **Blind Image Decomposition. (BID)** arXiv. ![](https://img.shields.io/badge/single%20image-purple)
+15. **Blind Image Decomposition. (BID)** arXiv. ![](https://img.shields.io/badge/single%20image-purple)
 
       *Han Junlin, Li Weihao, Fang Pengfei, Sun Chunyi, Hong Jie, Mohammad Ali Armin, Lars Petersson, and Li Hongdong.* [[pdf]](https://arxiv.org/abs/2108.11364), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Blind+image+decomposition&btnG=), 2021.
 
-15. **Self-Learning Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence. (SLDNet)** CVPR. ![](https://img.shields.io/badge/video-orange)
+16. **Self-Learning Video Rain Streak Removal: When Cyclic Consistency Meets Temporal Correspondence. (SLDNet)** CVPR. ![](https://img.shields.io/badge/video-orange)
 
      *Yang Wenhan, T. Tan Robby, Wang Shiqi, and Liu Jiaying.*[[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Self-Learning_Video_Rain_Streak_Removal_When_Cyclic_Consistency_Meets_Temporal_CVPR_2020_paper.pdf) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Self-Learning+Video+Rain+Streak+Removal%3A+When+Cyclic+Consistency+Meets+Temporal+Correspondence&btnG=), 2020.
 
-16. **All in One Bad Weather Removal using Architectural Search. (NAS)** CVPR. ![](https://img.shields.io/badge/single%20image-purple)
+17. **All in One Bad Weather Removal using Architectural Search. (NAS)** CVPR. ![](https://img.shields.io/badge/single%20image-purple)
 
      *Li Ruoteng, T. Tan Robby, and Cheong Looeng-Fah.*[[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.pdf) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=All+in+One+Bad+Weather+Removal+using+Architectural+Search&btnG=), 2020.
 
-17. **Wavelet-based dual-branch network for image demoiréing. (WDNet)** ECCV. ![](https://img.shields.io/badge/single%20image-purple)
+18. **Wavelet-based dual-branch network for image demoiréing. (WDNet)** ECCV. ![](https://img.shields.io/badge/single%20image-purple)
 
       *Liu Lin, Liu Jianzhuang, Yuan Shanxin, Slabaugh Gregory, Leonardis Ales, Zhou Wengang, and Tian Qi.*[[pdf]](https://link.springer.com/chapter/10.1007%2F978-3-030-58601-0_6) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Wavelet-based+dual-branch+network+for+image+demoir%C3%A9ing&btnG=), 2020.
 
-18. **Rethinking Image Deraining via Rain Streaks and Vapors. (S-V-ANet)** ECCV. ![](https://img.shields.io/badge/single%20image-purple)
+19. **Rethinking Image Deraining via Rain Streaks and Vapors. (S-V-ANet)** ECCV. ![](https://img.shields.io/badge/single%20image-purple)
 
        *Wang Yinglong, Song Yibing, Ma Chao, and Zeng Bing.* [[pdf]](https://arxiv.org/pdf/2008.00823.pdf) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Rethinking+Image+Deraining+via+Rain+Streaks+and+Vapors&btnG=), 2020.
 
-19. **Joint Self-Attention and Scale-Aggregation for Self-Calibrated Deraining Network. (JDNet)** ACM'MM. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+20. **Joint Self-Attention and Scale-Aggregation for Self-Calibrated Deraining Network. (JDNet)** ACM'MM. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
        *Wang Cong, Wu Yutong, Su Zhixun, and Chen Junyang.* [[pdf]](https://arxiv.org/pdf/2008.02763.pdf) [[github]](https://github.com/Ohraincu/JDNet) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Joint+Self-Attention+and+Scale-Aggregation+for+Self-Calibrated+Deraining+Network&btnG=), 2020.
 
-20. **DCSFN: Deep Cross-scale Fusion Network for Single Image Rain Removal. (DCSFN)** ACM'MM. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+21. **DCSFN: Deep Cross-scale Fusion Network for Single Image Rain Removal. (DCSFN)** ACM'MM. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
       *Wang Cong, Xing Xiaoying, Su Zhixun, and Chen Junyang.*[[pdf]](https://arxiv.org/pdf/2008.00767.pdf) [[github]](https://github.com/Ohraincu/DCSFN) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DCSFN%3A+Deep+Cross-scale+Fusion+Network+for+Single+Image+Rain+Removal.&btnG=), 2020.
 
-21. **Conditional Variational Image Deraining. (CVID)** TIP. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue)
+22. **Conditional Variational Image Deraining. (CVID)** TIP. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue)
 
       *Du Yingjun, Xu Jun, Zhen Xiantong, Cheng Ming-Ming, and Shao Ling.* [[pdf]](file:///D:/Education/Papers/derain/conditional_variational_image_deraining.pdf) [[github]](https://github.com/Yingjun-Du/VID) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Conditional+variational+image+deraining&btnG=), 2020.
 
-22. **Variational Image Deraining. (VID)** WACV. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue)
+23. **Variational Image Deraining. (VID)** WACV. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue)
 
       *Du Yingjun, Xun Jun, Qiu Qiang, Zhen Xiantong, and Zhang Lei.*[[pdf]](https://openaccess.thecvf.com/content_WACV_2020/papers/Du_Variational_Image_Deraining_WACV_2020_paper.pdf) [[github]](https://github.com/Yingjun-Du/VID) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=variational+image+deraining&btnG=&oq=Variational+Image+Derai), 2020.
 
-23. **Detail-recovery Image Deraining via Context Aggregation Networks. (DRD-Net)** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue)
+24. **Detail-recovery Image Deraining via Context Aggregation Networks. (DRD-Net)** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue)
 
       *Deng Sen, Wei Mingqiang, Wang Jun, Feng Yidan, Liang Luming, Xie Haoran, Wang Fu Lee, and Wang Meng.* [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Deng_Detail-recovery_Image_Deraining_via_Context_Aggregation_Networks_CVPR_2020_paper.pdf) [[github]](https://github.com/Dengsgithub/DRD-Net) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Detail-recovery+Image+Deraining+via+Context+Aggregation+Networks&btnG=), 2020.
 
-24. **Physical Model Guided Deep Image Deraining.** ICME. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue)
+25. **Physical Model Guided Deep Image Deraining.** ICME. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue)
 
       *Zhu Honghe, Wang Cong, Zhang Yajie, Su Zhixun, and Zhao Guohui.* [[pdf]](https://arxiv.org/pdf/2003.13242.pdf) [[github]](https://github.com/Ohraincu/PHYSICAL-MODEL-GUIDED-DEEP-IMAGE-DERAINING) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Physical+Model+Guided+Deep+Image+Deraining.&btnG=), 2020.
 
-25. **RDDAN: A Residual Dense Dilated Aggregated Network for Single Image Deraining. (RDDAN)** ICME. ![](https://img.shields.io/badge/single%20image-purple)
+26. **RDDAN: A Residual Dense Dilated Aggregated Network for Single Image Deraining. (RDDAN)** ICME. ![](https://img.shields.io/badge/single%20image-purple)
 
       *Yang Youzhao, Ran Wu, and Lu Hong.* [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9102945) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=RDDAN%3A+A+Residual+Dense+Dilated+Aggregated+Network+for+Single+Image+Deraining.&btnG=), 2020.
 
-26. **Confidence Measure Guided Single Image De-Raining. (QuDec)** TIP. ![](https://img.shields.io/badge/single%20image-purple)
+27. **Confidence Measure Guided Single Image De-Raining. (QuDec)** TIP. ![](https://img.shields.io/badge/single%20image-purple)
 
        *Yasarla Rajeev, and M. Patel Vishal.* [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9007569) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Confidence+Measure+Guided+Single+Image+De-Raining&btnG=), 2020.
 
-27. **A Coarse-to-Fine Multi-stream Hybrid Deraining Network for Single Image Deraining. (MH-DerainNet)** ICDM. ![](https://img.shields.io/badge/single%20image-purple)
+28. **A Coarse-to-Fine Multi-stream Hybrid Deraining Network for Single Image Deraining. (MH-DerainNet)** ICDM. ![](https://img.shields.io/badge/single%20image-purple)
 
       *Wei Yanyan, Zhang Zhao, Zhang Haijun, Hong Richang, and Wang Meng.* [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8970838) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Coarse-to-Fine+Multi-stream+Hybrid+Deraining+Network+for+Single+Image+Deraining&btnG=), 2019.
 
-28. **ERL-Net: Entangled Representation Learning for Single Image De-Raining. (ERL-Net)** ICCV. ![](https://img.shields.io/badge/single%20image-purple)
+29. **ERL-Net: Entangled Representation Learning for Single Image De-Raining. (ERL-Net)** ICCV. ![](https://img.shields.io/badge/single%20image-purple)
 
       *Wang Guoqing, Sun Changming, and Sowmya Acrot.* [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_ERL-Net_Entangled_Representation_Learning_for_Single_Image_De-Raining_ICCV_2019_paper.pdf) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ERL-Net%3A+Entangled+Representation+Learning+for+Single+Image+De-Raining&btnG=), 2019.
 
-29. **DTDN: Dual-task de-raining network. (DTDN)** ACM'MM. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+30. **DTDN: Dual-task de-raining network. (DTDN)** ACM'MM. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
       *Wang Zheng, Li Jianwu, and Song Ge.* [[pdf]](https://arxiv.org/pdf/2008.09326.pdf), [[github]](https://github.com/long-username/DTDN-DTDN-Dual-task-De-raining-Network), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DTDN%3A+Dual-task+Training+Network&btnG=), 2019.
 
-30. **Gradual Network for Single Image De-raining. (GraNet)** ACM'MM. ![](https://img.shields.io/badge/single%20image-purple)
+31. **Gradual Network for Single Image De-raining. (GraNet)** ACM'MM. ![](https://img.shields.io/badge/single%20image-purple)
 
       *Yu Weijiang, Huang Zhe, Zhang Wayne, Feng Litong, and Xiao Nong.* [[pdf]](https://arxiv.org/pdf/1909.09677.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Gradual+Network+for+Single+Image+De-raining&btnG=), 2019.
 
-31. **An Effective Two-Branch Model-Based Deep Network for Single Image Deraining. (AMPE-Net)** arXiv. ![](https://img.shields.io/badge/single%20image-purple)
+32. **An Effective Two-Branch Model-Based Deep Network for Single Image Deraining. (AMPE-Net)** arXiv. ![](https://img.shields.io/badge/single%20image-purple)
 
     *Wang Yinglong, Gong Dong, Yang Jie, Shi Qinfeng, Anton van den Hengel, Xie Dehua, and Zeng Bing.* [[pdf]](https://arxiv.org/pdf/1905.05404.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=An+Effective+Two-Branch+Model-Based+Deep+Network+for+Single+Image+Deraining&btnG=#d=gs_cit&u=%2Fscholar%3Fq%3Dinfo%3AN5oEFLEcteoJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den), 2019.
     ****
