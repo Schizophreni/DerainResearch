@@ -1,6 +1,6 @@
 # Image De-raining papers
 
-![](https://img.shields.io/badge/recent%20update-2022%20Sept.-red) ![](https://img.shields.io/badge/PaperNumber-66-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/badge/Issues-Welcome-red) 
+![](https://img.shields.io/badge/recent%20update-2022%20Sept.-red) ![](https://img.shields.io/badge/PaperNumber-67-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/badge/Issues-Welcome-red) 
 
 Papers on Image de-raining which include recent prior based and learning based methods. The paper list is mainly maintained by  [Schizophreni](https://github.com/Schizophreni/). We have merged the paper listed in [DerainZoo](https://github.com/nnUyi/DerainZoo) and re-organized recent papers for better comparison and understanding.  Note that this list is also friendly for writing introduction or related work of your academic paper. 
 
@@ -20,7 +20,7 @@ Papers on Image de-raining which include recent prior based and learning based m
     - [Image de-raining meets high level vision](#High-Level)
   - [Other Contributors](#Other-Contributors)
 
-***News (2022-09-01)***: *add two uncertainty based deraining papers. (TPAMI 2022 | TIP 2021)*
+***News (2022-09-28)***: *add MOSS (semi-supervised method). (CVPR 2021)*
 
 ## Introduction
 
@@ -58,73 +58,9 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
 1. **Memory Uncertainty Learning for Real-World Single Image Deraining.** TPAMI. ![](https://img.shields.io/badge/single%20image-purple) 
 
-   *Huang Huaibo, Luo Mandi, and He Ran.* [[pdf]](https://ieeexplore.ieee.org/abstract/document/9789487), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Memory+Uncertainty+Learning+for+Real-World+Single+Image+Deraining&btnG=), 2022.
+   *Huang Huaibo, Luo Mandi, and He Ran.* [[pdf]](https://ieeexplore.ieee.org/abstract/document/9789487), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Memory+Uncertainty+Learning+for+Real-World+Single+Image+Deraining&btnG=), 2022. (Extension to MOSS)
 
-2. **Dreaming to Prune Image Deraining Networks. **CVPR.  ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/prune/compression-yellow)
-
-   *Zou Weiqi, Wang Yang, Fu Xueyang, and Cao Yang.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_Dreaming_To_Prune_Image_Deraining_Networks_CVPR_2022_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dreaming+to+Prune+Image+Deraining+Networks.+&btnG=), 2022.
-
-3. **KNN Local Attention for Image Restoration. (KIT)** CVPR.  ![](https://img.shields.io/badge/image%20restoration-pink)
-
-   *Lee Hunsang, Choi Hyesong, Sohn Kwanghoon, and Min Dongbo.*[[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_KNN_Local_Attention_for_Image_Restoration_CVPR_2022_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=KNN+Local+Attention+for+Image+Restoration&btnG=), 2022.
-
-4. **All-In-One Image Restoration for Unknown Corruption. (AirNet)** CVPR.  ![](https://img.shields.io/badge/image%20restoration-pink) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
-
-   *Li Boyun, Liu Xiao, Hu Peng, Wu Zhongqin, Lv Jiancheng, and Peng Xi.*[[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_All-in-One_Image_Restoration_for_Unknown_Corruption_CVPR_2022_paper.pdf), [[github]](https://github.com/XLearning-SCU/2022-CVPR-AirNet), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=All-In-One+Image+Restoration+for+Unknown+Corruption&btnG=), 2022.
-
-5. **TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions. (TransWeather)** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/transformer-black)
-
-   *Valanarasu Jeya Maria Jose, Yasarla Rajeev, and M. Patel Vishal.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Valanarasu_TransWeather_Transformer-Based_Restoration_of_Images_Degraded_by_Adverse_Weather_Conditions_CVPR_2022_paper.pdf), [[github]](https://github.com/jeya-maria-jose/TransWeather), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=TransWeather%3A+Transformer-based+Restoration+of+Images+Degraded+by+Adverse+Weather+Conditions&btnG=), 2022.
-
-6. **Deep Generalized Unfolding Networks for Image Restoration. (DGUNet)** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
-
-   *Mou chong, Wang Qian, and Zhang Jian.*[[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Mou_Deep_Generalized_Unfolding_Networks_for_Image_Restoration_CVPR_2022_paper.pdf), [[github]](https://github.com/MC-E/Deep-Generalized-Unfolding-Networks-for-Image-Restoration), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Deep+Generalized+Unfolding+Networks+for+Image+Restoration&btnG=), 2022.
-
-7. **Uformer: A General U-Shaped Transformer for Image Restoration. (Uformer)** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green) ![](https://img.shields.io/badge/transformer-black)
-
-   *Wang Zhendong, Cun Xiaodong, Bao Jianmin, Zhou Wengang, Liu Jianzhuang, and Li Houqiang.*[[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Uformer_A_General_U-Shaped_Transformer_for_Image_Restoration_CVPR_2022_paper.pdf), [[github]](https://github.com/ZhendongWang6/Uformer), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Uformer%3A+A+General+U-Shaped+Transformer+for+Image+Restoration&btnG=), 2022.
-
-8. **Restormer: Efficient Transformer for High-Resolution Image Restoration. (Restormer)** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green) ![](https://img.shields.io/badge/transformer-black)
-
-   *Zamir Syed Waqas, Arora Aditya, Khan Salman, Hayat Munawar.*[[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zamir_Restormer_Efficient_Transformer_for_High-Resolution_Image_Restoration_CVPR_2022_paper.pdf), [[github]](https://github.com/swz30/Restormer), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Restormer%3A+Efficient+Transformer+for+High-Resolution+Image+Restoration&btnG=), 2022.
-
-9. **Unsupervised Deraining: Where Contrastive Learning Meets Self-similarity. (NLCL)** CVPR.  ![](https://img.shields.io/badge/single%20image-purple)
-
-   *Ye Yuntong, Yu Changfeng, Chang Yi, Zhu Lin, Zhao, Xi-le, Yan Luxin, and Tian Yonghong.*[[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_Unsupervised_Deraining_Where_Contrastive_Learning_Meets_Self-Similarity_CVPR_2022_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Deraining%3A+Where+Contrastive+Learning+Meets+Self-similarity.+%28NLCL%29&btnG=), 2022.
-
-10. **Online-updated High-order Collaborative Networks for Single Image Deraining. (HCNet)** AAAI. ![](https://img.shields.io/badge/single%20image-purple)
-
-    *Wang Cong, Pan Jinshan, and Wu Xiao-Ming.* [[pdf]](https://arxiv.org/pdf/2202.06568.pdf), 2022.
-
-11. **MAXIM: Multi-Axis MLP for Image Processing. （MAXIM)** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
-
-    *Zhengzhong Tu, Hossein Talebi, Han Zhang, Feng Yang, Peyman Milanar, Alan Bovik, and YinXiao Li*. [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Tu_MAXIM_Multi-Axis_MLP_for_Image_Processing_CVPR_2022_paper.pdf), [[github]](https://github.com/vztu/maxim-pytorch), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MAXIM%3A+Multi-Axis+MLP+for+Image+Processing&btnG=), 2022.
-
-12. **Uncertainty Guided Multi-Scale Attention Network for Raindrop Removal From a Single Image.** TIP. ![](https://img.shields.io/badge/raindrop-purple) 
-
-    *Shao Ming-Wen, Li Le, Meng De-Yu, and Zuo Wang-Meng.* [[pdf]](https://ieeexplore.ieee.org/abstract/document/9423583/), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Uncertainty+Guided+Multi-Scale+Attention+Network+for+Raindrop+Removal+From+a+Single+Image&btnG=), 2021.
-
-13. **Structure-Preserving Deraining with Residue Channel Prior Guidance. (SPDNet)** ICCV. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
-
-    *Yi Qiaosi, Li Juncheng, Dai Qinyan, Fang Faming, Zhang Guixu, and Zeng Tieyong*. [[pdf]](https://junchenglee.com/paper/ICCV_2021.pdf), [[github]](https://github.com/Joyies/SPDNet), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Structure-Preserving+Deraining+with+Residue+Channel+Prior+Guidance&btnG=), 2021.
-
-14. **Unpaired Learning for Deep Image Deraining With Rain Direction Regularizer** ICCV. ![](https://img.shields.io/badge/single%20image-purple)
-
-    *Liu Yang, Yue Ziyu, Pan Jinshan, and Su Zhixun.* [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Unpaired_Learning_for_Deep_Image_Deraining_With_Rain_Direction_Regularizer_ICCV_2021_paper.pdf), [[github]](https://github.com/Yueziyu/RainDirection-and-Real3000-Dataset), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unpaired+Learning+for+Deep+Image+Deraining+with+Rain+Direction+Regularizer&btnG=), 2021.
-
-15. **Spatially-Adaptive Image Restoration using Distortion-Guided Networks. (SPAIR)** ICCV. ![](https://img.shields.io/badge/single%20image-purple)
-
-    *Purohit Kuldeep, Suin Maitreya, A.N. Rajagopalan, and Vishnu Naresh Boddeti.* [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Purohit_Spatially-Adaptive_Image_Restoration_Using_Distortion-Guided_Networks_ICCV_2021_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Spatially-Adaptive+Image+Restoration+using+Distortion-Guided+Networks&btnG=), 2021.
-
-16. **Improving De-raining Generalization via Neural Reorganization. (NR)** ICCV. ![](https://img.shields.io/badge/single%20image-purple)
-
-    *Xiao Jie, Zhou Man, Fu Xueyang, Liu Aiping, and Zha Zheng-Jun.* [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiao_Improving_De-Raining_Generalization_via_Neural_Reorganization_ICCV_2021_paper.pdf) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FICCV2021%2Fpapers%2FXiao_Improving_De-Raining_Generalization_via_Neural_Reorganization_ICCV_2021_paper.pdf&btnG=#d=gs_cit&u=%2Fscholar%3Fq%3Dinfo%3AH14kj_iZ88cJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den), 2021.
-
-1. **Memory Uncertainty Learning for Real-World Single Image Deraining.** TPAMI. ![](https://img.shields.io/badge/single%20image-purple) 
-
-   *Huang Huaibo, Luo Mandi, and He Ran.* [[pdf]](https://ieeexplore.ieee.org/abstract/document/9789487), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Memory+Uncertainty+Learning+for+Real-World+Single+Image+Deraining&btnG=), 2022.
-
-2. **Dreaming to Prune Image Deraining Networks. **CVPR.  ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/prune/compression-yellow)
+2. **Dreaming to Prune Image Deraining Networks.** CVPR.  ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/prune/compression-yellow)
 
    *Zou Weiqi, Wang Yang, Fu Xueyang, and Cao Yang.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_Dreaming_To_Prune_Image_Deraining_Networks_CVPR_2022_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dreaming+to+Prune+Image+Deraining+Networks.+&btnG=), 2022.
 
