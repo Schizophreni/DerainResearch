@@ -64,7 +64,7 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
    *Huang Huaibo, Luo Mandi, and He Ran.* [[pdf]](https://ieeexplore.ieee.org/abstract/document/9789487), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Memory+Uncertainty+Learning+for+Real-World+Single+Image+Deraining&btnG=), 2022.
 
-3. **Dreaming to Prune Image Deraining Networks. **CVPR.  ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/prune/compression-yellow)
+3. **Dreaming to Prune Image Deraining Networks.**CVPR.  ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/prune/compression-yellow)
 
    *Zou Weiqi, Wang Yang, Fu Xueyang, and Cao Yang.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_Dreaming_To_Prune_Image_Deraining_Networks_CVPR_2022_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dreaming+to+Prune+Image+Deraining+Networks.+&btnG=), 2022.
 
@@ -262,7 +262,7 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
 #### Recurrent Model
 
-1. **Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond. ** CVPR.  ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+1. **Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond.** CVPR.  ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
    *Yu Li, Yang Wenhan, Tan Yap-Peng, and C. Kot Alex.*[[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_Towards_Robust_Rain_Removal_Against_Adversarial_Attacks_A_Comprehensive_Benchmark_CVPR_2022_paper.pdf), [[github]](https://github.com/yuyi-sd/Robust_Rain_Removal), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Towards+Robust+Rain+Removal+Against+Adversarial+Attacks%3A+A+Comprehensive+Benchmark+Analysis+and+Beyond&btnG=), 2022.
 
