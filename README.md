@@ -64,7 +64,7 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
    *Huang Huaibo, Luo Mandi, and He Ran.* [[pdf]](https://ieeexplore.ieee.org/abstract/document/9789487), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Memory+Uncertainty+Learning+for+Real-World+Single+Image+Deraining&btnG=), 2022.
 
-3. **Dreaming to Prune Image Deraining Networks.**CVPR.  ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/prune/compression-yellow)
+3. **Dreaming to Prune Image Deraining Networks.** CVPR.  ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/prune/compression-yellow)
 
    *Zou Weiqi, Wang Yang, Fu Xueyang, and Cao Yang.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_Dreaming_To_Prune_Image_Deraining_Networks_CVPR_2022_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dreaming+to+Prune+Image+Deraining+Networks.+&btnG=), 2022.
 
