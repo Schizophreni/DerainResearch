@@ -1,6 +1,6 @@
 # Image De-raining papers
 
-![](https://img.shields.io/badge/recent%20update-2023%20Mar.-red) ![](https://img.shields.io/badge/PaperNumber-68-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/badge/Issues-Welcome-red) 
+![](https://img.shields.io/badge/recent%20update-2023%30Mar.-red) ![](https://img.shields.io/badge/PaperNumber-70-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/badge/Issues-Welcome-red) 
 
 Papers on Image de-raining which include recent prior based and learning based methods. The paper list is mainly maintained by  [Schizophreni](https://github.com/Schizophreni/). We have merged the paper listed in [DerainZoo](https://github.com/nnUyi/DerainZoo) and re-organized recent papers for better comparison and understanding.  Note that this list is also friendly for writing introduction or related work of your academic paper. 
 
@@ -20,7 +20,7 @@ Papers on Image de-raining which include recent prior based and learning based m
     - [Image de-raining meets high level vision](#High-Level)
   - [Other Contributors](#Other-Contributors)
 
-***News (2023-03-05)***: *add TRNR with codes. (TIP 2023)*
+***News (2023-03-30)***: *Add two diffusion-based methods: WeatherDiff (PAMI'23) and RainDiffusion.*
 
 ## Introduction
 
@@ -30,7 +30,7 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
 > Task domain: ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/prune/compression-yellow) ![](https://img.shields.io/badge/video-orange) ![](https://img.shields.io/badge/image%20restoration-pink)
 >
-> Net type: ![](https://img.shields.io/badge/transformer-black)
+> Marks: ![](https://img.shields.io/badge/transformer-black) ![](https://img.shields.io/badge/diffusion%20model-cyan)
 >
 > Resources: ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
@@ -259,6 +259,13 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
    *Ni Siqi, Cao Xueyun, Yue Tao, and Hu Xuemei*. [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ni_Controlling_the_Rain_From_Removal_to_Rendering_CVPR_2021_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Controlling+the+Rain%3A+from+Removal+to+Rendering&btnG=), 2021.
 
+6. **Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models. (WeatherDiff)** TPAMI. ![](https://img.shields.io/badge/image%20restoration-pink)![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green) ![](https://img.shields.io/badge/diffusion%20model-cyan)
+
+   *Ozan Ozdenizci, and Robert Legenstein*. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10021824), [[github]](https://github.com/IGITUGraz/WeatherDiffusion), [[cite]](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Restoring+Vision+in+Adverse+Weather+Conditions+with+Patch-Based+Denoising+Diffusion+Models&btnG=), 2023.
+
+7. **RainDiffusion: When Unsupervised Learning Meets Diffusion Models for Real-world Image Deraining. (RainDiffusion)** arXiv. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/diffusion%20model-cyan)
+
+   *Wei Mingqiang, Shen Yiwang, Wang Yongzheng, Xie Haoran, Qin Jing, and Wang Fu Lee*. [[pdf]](https://arxiv.org/pdf/2301.09430.pdf), 2023.
 
 #### Recurrent Model
 
