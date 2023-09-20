@@ -20,7 +20,7 @@ Papers on Image de-raining which include recent prior based and learning based m
     - [Image de-raining meets high level vision](#High-Level)
   - [Other Contributors](#Other-Contributors)
 
-***News (2023-04-23)***: *Add PromptIR for prompting image restoration.*
+***News (2023-09-20)***: *Add SmartAssign (CVPR), DRSformer (CVPR), UDR-S2Former (ICCV)*
 
 ## Introduction
 
