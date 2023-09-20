@@ -38,15 +38,19 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
 ### Survey
 
-1. **A Comprehensive Benchmark Analysis of Single Image Deraining: Current Challenges and Future Perspectives.** IJCV
+1. **Data-Driven single image deraining: A Comprehensive review and new perspectives.** PR
+
+   *Zhao Zhang, Yanyan Wei, Haijun Zhang, Yi Yang, Shuicheng Yan, and Meng Wang* [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0031320323004387), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Data-driven+single+image+deraining%3A+A+comprehensive+review+and+new+perspectives&btnG=), 2023.
+
+2. **A Comprehensive Benchmark Analysis of Single Image Deraining: Current Challenges and Future Perspectives.** IJCV
 
    *Li Siyuan, Ren Wenqi, Wang Feng, Araujo Iago Breno, E. Tokuda Eric, H. Junior Roberto, M. Cesar-Jr. Roberto, Wang Zhangyang, and Cao Xiaochun.* [[pdf]](https://link.springer.com/article/10.1007/s11263-020-01416-w), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Comprehensive+Benchmark+Analysis+of+Single+Image+Deraining%3A+Current+Challenges+and+Future+Perspectives&btnG=), 2021.
 
-2. **Single Image Deraining: From Model-Based to Data-Driven and Beyond.**  TPAMI. 
+3. **Single Image Deraining: From Model-Based to Data-Driven and Beyond.**  TPAMI. 
 
    *Yang Wenhan, T. Tan Robby, Wang Shiqi, Fang Yuming, and Liu Jiaying.*  [[pdf](https://arxiv.org/pdf/1912.07150.pdf)], [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Single+Image+Deraining%3A+From+Model-Based+to+Data-Driven+and+Beyond&btnG=), 2020. 
 
-3. **A Survey on Rain Removal from Video and Single Image.** arXiv.
+4. **A Survey on Rain Removal from Video and Single Image.** arXiv.
 
    *Wang Hong, Wu Yichen, Li Minghan, Zhao Qian, and Meng Deyu.* [[pdf]](https://arxiv.org/pdf/1909.08326.pdf) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Survey+on+Rain+Removal+from+Video+and+Single+Image&btnG=), 2019.
 
