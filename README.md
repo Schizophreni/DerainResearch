@@ -28,11 +28,11 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
 ## Marks
 
-> Task domain: ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/prune/compression-yellow) ![](https://img.shields.io/badge/video-orange) ![](https://img.shields.io/badge/image%20restoration-pink)
+Task domain: ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/prune/compression-yellow) ![](https://img.shields.io/badge/video-orange) ![](https://img.shields.io/badge/image%20restoration-pink)
 
-> Marks: ![](https://img.shields.io/badge/transformer-black) ![](https://img.shields.io/badge/diffusion%20model-cyan)
+Marks: ![](https://img.shields.io/badge/transformer-black) ![](https://img.shields.io/badge/diffusion%20model-cyan)
 
-> Resources: ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+Resources: ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
 ## Papers
 
