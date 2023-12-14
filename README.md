@@ -1,8 +1,8 @@
 # Image De-raining papers
 
-![](https://img.shields.io/badge/recent%20update-2023%23Oct.-red) ![](https://img.shields.io/badge/PaperNumber-82-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/badge/Issues-Welcome-red) 
+![](https://img.shields.io/badge/recent%20update-2023%14Dec.-red) ![](https://img.shields.io/badge/PaperNumber-83-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/badge/Issues-Welcome-red) 
 
-Papers on Image de-raining which include recent prior based and learning based methods. The paper list is mainly maintained by  [Schizophreni](https://github.com/Schizophreni/). We have merged the paper (later than 2019 by now) listed in [DerainZoo](https://github.com/nnUyi/DerainZoo) maintained by nnUyi and re-organized recent papers for better comparison and understanding.  Note that this list is also friendly for writing introduction or related work of your academic paper. 
+Papers on Image de-raining which include recent prior based and learning based methods. The paper list is mainly maintained by  [Schizophreni](https://github.com/Schizophreni/). We have merged the paper listed in [DerainZoo](https://github.com/nnUyi/DerainZoo) and re-organized recent papers for better comparison and understanding.  Note that this list is also friendly for writing introduction or related work of your academic paper. 
 
 ## Contents
 
@@ -20,7 +20,7 @@ Papers on Image de-raining which include recent prior based and learning based m
     - [Image de-raining meets high level vision](#High-Level)
   - [Other Contributors](#Other-Contributors)
 
-***News (2023-10-13)***: *Add ICCV multi-weather restoration with domain translation*
+***News (2023-11-14)***: *Add overlooked CVPR 2023 paper GRL.*
 
 ## Introduction
 
@@ -28,11 +28,11 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
 ## Marks
 
-Task domain: ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/prune/compression-yellow) ![](https://img.shields.io/badge/video-orange) ![](https://img.shields.io/badge/image%20restoration-pink)
-
-Marks: ![](https://img.shields.io/badge/transformer-black) ![](https://img.shields.io/badge/diffusion%20model-cyan)
-
-Resources: ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+> Task domain: ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/prune/compression-yellow) ![](https://img.shields.io/badge/video-orange) ![](https://img.shields.io/badge/image%20restoration-pink)
+>
+> Marks: ![](https://img.shields.io/badge/transformer-black) ![](https://img.shields.io/badge/diffusion%20model-cyan)
+>
+> Resources: ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
 ## Papers
 
@@ -62,13 +62,15 @@ Resources: ![](https://img.shields.io/badge/project-blue) ![](https://img.shield
 
    *Wang Hong, Wu Yichen, Li Minghan, Zhao Qian, and Meng Deyu.* [[pdf]](https://arxiv.org/pdf/1909.08326.pdf) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Survey+on+Rain+Removal+from+Video+and+Single+Image&btnG=), 2019.
 
+   
+
 ### Learning Based
 
 #### Linear Decomposition
 
 1. **Multi-weather image restoration via domain translation.** ICCV. ![](https://img.shields.io/badge/image%20restoration-pink) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
-   *Prashant W.Patil, Sunil Gupta, Santu Rana, Svetha Venkatesh, and Subrahmanyam Murala.* [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Patil_Multi-weather_Image_Restoration_via_Domain_Translation_ICCV_2023_paper.pdf), [[github]](https://github.com/pwp1208/Domain_Translation_Multi-weather_Restoration), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=multi-weather+image+restoration+via+domain+translation&btnG=), 2023.
+   *Prashant W.Patil, Sunil Gupta, Santu Rana, Svetha Venkatesh, and Subrahmanyam Murala.* [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Patil_Multi-weather_Image_Restoration_via_Domain_Translation_ICCV_2023_paper.pdf), [[github]](https://github.com/pwp1208/Domain_Translation_Multi-weather_Restoration, [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=multi-weather+image+restoration+via+domain+translation&btnG=), 2023.
 
 2. **Learning rain location prior for nighttime deraining.** ICCV. ![](https://img.shields.io/badge/single%20image-purple) 
 
@@ -90,21 +92,25 @@ Resources: ![](https://img.shields.io/badge/project-blue) ![](https://img.shield
 
    *Xiang Chen, Hao Li, Mingqiang Li, and Jinshan Pan.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_a_Sparse_Transformer_Network_for_Effective_Image_Deraining_CVPR_2023_paper.pdf) [[github]](https://github.com/cschenxiang/DRSformer) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DRSformer&btnG=), 2023.
 
-7. **SmartAssign: learning a smart knowledge assignment strategy for deraining and desnowing** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/transformer-black)
+7. **Efficient and explicit modelling of image hierarchies for image restoration (GRL)** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/transformer-black) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+
+   *Yawei Li, Yuchen Fan, Xiaoyu Xiang, Denis Demandolx et al.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Efficient_and_Explicit_Modelling_of_Image_Hierarchies_for_Image_Restoration_CVPR_2023_paper.pdf) [[github]](https://github.com/ofsoundof/GRL-Image- Restoration) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Efficient+and+Explicit+Modelling+of+Image+Hierarchies+for+Image+Restoration&btnG=), 2023.
+
+8. **SmartAssign: learning a smart knowledge assignment strategy for deraining and desnowing** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/transformer-black)
 
    *Yinglong Wang, Chao Ma, and Jianzhuang Liu.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_SmartAssign_Learning_a_Smart_Knowledge_Assignment_Strategy_for_Deraining_and_CVPR_2023_paper.pdf) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=smartassign&btnG=), 2023.
 
-8. **Learning weather-general and weather-specific features for image restoration under multiple adverse weather conditions** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+9. **Learning weather-general and weather-specific features for image restoration under multiple adverse weather conditions** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
    *Zhu Yurui, Wang Tianyu, Fu Xueyang, Yang Xuanyu, Guo Xin, Dai Jifeng, Qiao Yu, and Hu Xiaowei.* [[github]](https://github.com/zhuyr97/WGWS-Net), 2023.
 
-9. **Learning Distortion Invariant Representation for Image Restoration from A Causality Perspective** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+10. **Learning Distortion Invariant Representation for Image Restoration from A Causality Perspective** CVPR. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
-   *Li Xin, Li Bingchen, Jin Xin, Lan Cuiling, and Chen Zhibo.*[[pdf]](https://arxiv.org/abs/2303.06859), [[github]](https://github.com/lixinustc/causal-IR-DIL), 2023.
+    *Li Xin, Li Bingchen, Jin Xin, Lan Cuiling, and Chen Zhibo.*[[pdf]](https://arxiv.org/abs/2303.06859), [[github]](https://github.com/lixinustc/causal-IR-DIL), 2023.
 
-10. **TRNR: Task-Driven Image Rain and Noise Removal With a Few Images Based on Patch Analysis** TIP. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+11. **TRNR: Task-Driven Image Rain and Noise Removal With a Few Images Based on Patch Analysis** TIP. ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
-    *Ran Wu, Yang Bohong, Ma Peirong, and Lu Hong.* [[pdf]](https://ieeexplore.ieee.org/abstract/document/10007859), [[github]](https://github.com/Schizophreni/MSResNet-TRNR), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=TRNR%3A+task-driven+image+rain+and+noise+removal&btnG=), 2023.
+   *Ran Wu, Yang Bohong, Ma Peirong, and Lu Hong.* [[pdf]](https://ieeexplore.ieee.org/abstract/document/10007859), [[github]](https://github.com/Schizophreni/MSResNet-TRNR), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=TRNR%3A+task-driven+image+rain+and+noise+removal&btnG=), 2023.
 
 11. **Memory Uncertainty Learning for Real-World Single Image Deraining.** TPAMI. ![](https://img.shields.io/badge/single%20image-purple) 
 
@@ -281,7 +287,8 @@ Resources: ![](https://img.shields.io/badge/project-blue) ![](https://img.shield
 54. **An Effective Two-Branch Model-Based Deep Network for Single Image Deraining. (AMPE-Net)** arXiv. ![](https://img.shields.io/badge/single%20image-purple)
 
     *Wang Yinglong, Gong Dong, Yang Jie, Shi Qinfeng, Anton van den Hengel, Xie Dehua, and Zeng Bing.* [[pdf]](https://arxiv.org/pdf/1905.05404.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=An+Effective+Two-Branch+Model-Based+Deep+Network+for+Single+Image+Deraining&btnG=#d=gs_cit&u=%2Fscholar%3Fq%3Dinfo%3AN5oEFLEcteoJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Den), 2019.
-    ****
+
+****
 
 #### Generative Model
 
