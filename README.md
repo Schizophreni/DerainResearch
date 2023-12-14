@@ -20,7 +20,7 @@ Papers on Image de-raining which include recent prior based and learning based m
     - [Image de-raining meets high level vision](#High-Level)
   - [Other Contributors](#Other-Contributors)
 
-***News (2023-11-14)***: *Add overlooked CVPR 2023 paper GRL.*
+***News (2023-11-14)***: *Add overlooked CVPR 2023 GRL.*
 
 ## Introduction
 
