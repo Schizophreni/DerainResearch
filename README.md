@@ -72,7 +72,7 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
    *Wu Ran, Peering Ma, Zhiquan He, Hao Ren, Hong Lu.* [[pdf]](https://openreview.net/pdf?id=pdJXYfJjz9), [[github]](https://github.com/Schizophreni/CoIC), [[cite]](https://github.com/Schizophreni/CoIC), 2024.
 
-2. **Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration. ** CVPR.   ![](https://img.shields.io/badge/image%20restoration-pink) 
+2. **Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration.** CVPR.   ![](https://img.shields.io/badge/image%20restoration-pink) 
 
    *Yuang Ai, Huaibo Huang, Xiaoqiang Zhou, Jiexiang Wang, Ran He.* [[pdf]](https://arxiv.org/abs/2312.02918) [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Multimodal+Prompt+Perceiver%3A+Empower+Adaptiveness%2C+Generalizability+and+Fidelity+for+All-in-One+Image+Restoration.+&btnG=), 2024.
 
