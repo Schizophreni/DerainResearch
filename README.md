@@ -1,6 +1,6 @@
 # Image De-raining papers
 
-![](https://img.shields.io/badge/recent%20update-2024%27Mar.-red) ![](https://img.shields.io/badge/PaperNumber-93-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/badge/Issues-Welcome-red) 
+![](https://img.shields.io/badge/recent%20update-2024%26Apr.-red) ![](https://img.shields.io/badge/PaperNumber-93-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/badge/Issues-Welcome-red) 
 
 Papers on Image de-raining which include recent prior based and learning based methods. The paper list is mainly maintained by  [Schizophreni](https://github.com/Schizophreni/). We have merged the paper (starting from 2019) listed in [DerainZoo](https://github.com/nnUyi/DerainZoo) and re-organized recent papers for better comparison and understanding.  Note that this list is also friendly for writing introduction or related work of your academic paper. 
 
@@ -70,7 +70,7 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
 1. **VQCNIR: Clearer night image restoration with vector-quantized codebook.** AAAI. ![](https://img.shields.io/badge/image%20restoration-pink)![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
-   *Wenbin Zou, Hongxia Gao, Tian Ye, Liang Chen, Weipeng Yang, Shasha Huang, Hongshen Chen, Sixiang Chen.* [[pdf]](https://arxiv.org/pdf/2312.08606), [[github]](https://github.com/AlexZou14/VQCNIR, [[cite]](https://github.com/AlexZou14/VQCNIR), 2024.
+   *Wenbin Zou, Hongxia Gao, Tian Ye, Liang Chen, Weipeng Yang, Shasha Huang, Hongshen Chen, Sixiang Chen.* [[pdf]](https://arxiv.org/pdf/2312.08606), [[github]](https://github.com/AlexZou14/VQCNIR), [[cite]](https://github.com/AlexZou14/VQCNIR), 2024.
 
 2. **Harnessing joint rain-/detail-aware representations to eliminate intricate rains.** ICLR.   ![](https://img.shields.io/badge/single%20image-purple) ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
