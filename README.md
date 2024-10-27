@@ -72,7 +72,7 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
    Ning Gao, Xingyu Jiang, Xinhui Zhang, and Yue Deng.* [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05751.pdf), [[github]](https://github.com/deng-ai-lab/FADformer), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Efficient+Frequency-Domain+Image+Deraining+with+Contrastive+Regularization&btnG=), 2024.
 
-2. **Restoring images in adverse weather conditions via histogram transformer** ECCV. ![](https://img.shields.io/badge/video-orange)  ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+2. **Restoring images in adverse weather conditions via histogram transformer** ECCV. ![](https://img.shields.io/badge/image%20restoration-pink)![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
    *Shangquan Sun, Wenqi Ren, Xinwei Gao, Rui Wang, and Xiaochun Cao* [[pdf]](https://arxiv.org/pdf/2407.10172) [[github]](https://github.com/sunshangquan/Histoformer)[[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Restoring+Images+in+Adverse+Weather+Conditions+via+Histogram+Transformer&btnG=)
 
