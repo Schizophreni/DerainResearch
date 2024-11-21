@@ -1,6 +1,6 @@
 # Image De-raining papers
 
-![](https://img.shields.io/badge/recent%20update-2024%27OCt.-red) ![](https://img.shields.io/badge/PaperNumber-98-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/badge/Issues-Welcome-red) 
+![](https://img.shields.io/badge/recent%20update-2024%21Nov.-red) ![](https://img.shields.io/badge/PaperNumber-99-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/badge/Issues-Welcome-red) 
 
 Papers on Image de-raining which include recent prior based and learning based methods. The paper list is mainly maintained by  [Schizophreni](https://github.com/Schizophreni/). We have merged the paper (starting from 2019) listed in [DerainZoo](https://github.com/nnUyi/DerainZoo) and re-organized recent papers for better comparison and understanding.  Note that this list is also friendly for writing introduction or related work of your academic paper. 
 
@@ -20,7 +20,7 @@ Papers on Image de-raining which include recent prior based and learning based m
     - [Image de-raining meets high level vision](#High-Level)
   - [Other Contributors](#Other-Contributors)
 
-***News (2024-10-27)***: *Add ECCV 2024 paper Histoformer and TIP2023.*
+***News (2024-11-21)***: *Add ECCV 2024 paper WResVLM.*
 
 ## Introduction
 
@@ -68,45 +68,47 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
 #### Linear Decomposition
 
-1. **Efficient frequency-domain image deraining with contrastive regularization.** ECCV.![](https://img.shields.io/badge/image%20restoration-pink)![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+1. **Towards real-world adverse weather image restoration: Enhancing clearness and semantics with vision-language models.** ECCV.![](https://img.shields.io/badge/image%20restoration-pink)
 
-   Ning Gao, Xingyu Jiang, Xinhui Zhang, and Yue Deng.* [[pdf]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05751.pdf), [[github]](https://github.com/deng-ai-lab/FADformer), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Efficient+Frequency-Domain+Image+Deraining+with+Contrastive+Regularization&btnG=), 2024.
+   *Jiaqi Xu, Mengyang Wu, Xiaowei Hu, Chi-Wing Fu, Qi Dou, and Pheng-Ann Heng.* [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-72649-1_9), [[github]](https://github.com/jiaqixuac/WResVLM), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Towards+Real-World+Adverse+Weather+Image+Restoration%3A+Enhancing+Clearness+and+Semantics+with+Vision-Language+Models&btnG=), 2024.
 
-2. **Restoring images in adverse weather conditions via histogram transformer** ECCV. ![](https://img.shields.io/badge/image%20restoration-pink)![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+2. **Efficient frequency-domain image deraining with contrastive regularization.** ECCV.![](https://img.shields.io/badge/image%20restoration-pink)![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+
+3. **Restoring images in adverse weather conditions via histogram transformer** ECCV. ![](https://img.shields.io/badge/video-orange)  ![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
    *Shangquan Sun, Wenqi Ren, Xinwei Gao, Rui Wang, and Xiaochun Cao* [[pdf]](https://arxiv.org/pdf/2407.10172) [[github]](https://github.com/sunshangquan/Histoformer)[[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Restoring+Images+in+Adverse+Weather+Conditions+via+Histogram+Transformer&btnG=)
 
-3. **Bidirectional multi-scale implicit neural representations for image deraining.** CVPR. ![](https://img.shields.io/badge/single%20image-purple)![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+4. **Bidirectional multi-scale implicit neural representations for image deraining.** CVPR. ![](https://img.shields.io/badge/single%20image-purple)![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
    *Xiang Chen, Jinshan Pan, and Jiangxin Dong.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Bidirectional_Multi-Scale_Implicit_Neural_Representations_for_Image_Deraining_CVPR_2024_paper.pdf), [[github]](https://github.com/cschenxiang/NeRD-Rain), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Bidirectional+Multi-Scale+Implicit+Neural+Representations+for+Image+Deraining&btnG=), 2024.
 
-4. **Adapt or perish: Adaptive sparse transformer with attentive feature refinement for image restoration.** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink)![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+5. **Adapt or perish: Adaptive sparse transformer with attentive feature refinement for image restoration.** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink)![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
    *Shihao Zhou, Duosheng Chen, Jinshan Pan, Jinglei Shi, and Jufeng Yang.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_Adapt_or_Perish_Adaptive_Sparse_Transformer_with_Attentive_Feature_Refinement_CVPR_2024_paper.pdf), [[github]](https://github.com/joshyZhou/AST), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Adapt+or+Perish%3A+Adaptive+Sparse+Transformer+with+Attentive+Feature+Refinement+for+Image+Restoration&btnG=), 2024.
 
-5. **Image restoration by denoising diffusion models with iteratively preconditioned guidance.** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink)![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+6. **Image restoration by denoising diffusion models with iteratively preconditioned guidance.** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink)![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
    *Tomer Garber, and Tom TIrer.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Garber_Image_Restoration_by_Denoising_Diffusion_Models_with_Iteratively_Preconditioned_Guidance_CVPR_2024_paper.pdf), [[github]](https://github.com/tirer-lab/DDPG), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Image+Restoration+by+Denoising+Diffusion+Models+with+Iteratively+Preconditioned+Guidance&btnG=), 2024.
 
-6. **Code: An explicit content decoulping framework for image restoration.** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink)
+7. **Code: An explicit content decoulping framework for image restoration.** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink)
 
    *Enxuan Gu, Hongwei Ge, and Yong Guo.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Gu_CoDe_An_Explicit_Content_Decoupling_Framework_for_Image_Restoration_CVPR_2024_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=CoDe%3A+An+Explicit+Content+Decoupling+Framework+for+Image+Restoration&btnG=), 2024.
 
-7. **Learning diffusion texture priors for image restoration.** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink)
+8. **Learning diffusion texture priors for image restoration.** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink)
 
    *Tian Ye, Sixiang Chen, Wenhao Chai, Zhaohu Xing, Jing Qin, Ge Lin, and Lei Zhu.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_Learning_Diffusion_Texture_Priors_for_Image_Restoration_CVPR_2024_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FCVPR2024%2Fpapers%2FYe_Learning_Diffusion_Texture_Priors_for_Image_Restoration_CVPR_2024_paper.pdf&btnG=), 2024.
 
-8. **Improving image restoration through removig degradations in textual representations.** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink)![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
+9. **Improving image restoration through removig degradations in textual representations.** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink)![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
 
    *Jingbo Lin, Zhilu Zhang, Yuxiang Wei, Dongwei Ren, Dongsheng Jiang, Qi Tian, and Wangmeng Zuo.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_Improving_Image_Restoration_through_Removing_Degradations_in_Textual_Representations_CVPR_2024_paper.pdf), [[github]](https://github.com/mrluin/TextualDegRemoval), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Improving+Image+Restoration+through+Removing+Degradations+in+Textual+Representations&btnG=), 2024.
 
-9. **Boosting image restoration via priors from pre-trained models.** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink)
+10. **Boosting image restoration via priors from pre-trained models.** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink)
 
-   *Xiaogang Xu, Shu Kong, Tao Hu, Zhe Liu, and Hujun Bao.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Boosting_Image_Restoration_via_Priors_from_Pre-trained_Models_CVPR_2024_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Boosting+Image+Restoration+via+Priors+from+Pre-trained+Models&btnG=), 2024.
+    *Xiaogang Xu, Shu Kong, Tao Hu, Zhe Liu, and Hujun Bao.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Boosting_Image_Restoration_via_Priors_from_Pre-trained_Models_CVPR_2024_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Boosting+Image+Restoration+via+Priors+from+Pre-trained+Models&btnG=), 2024.
 
-10. **Distilling semantic priors from sam to efficient image restoration models.** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink)
+11. **Distilling semantic priors from sam to efficient image restoration models.** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink)
 
-    *Quan Zhang, Xiaoyu Liu, Wei Li, Hanting Chen, Junchao Liu, Jie Hu, Zhiwei Xiong, Chun Yuan, and Yunhe Wang.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Distilling_Semantic_Priors_from_SAM_to_Efficient_Image_Restoration_Models_CVPR_2024_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Distilling+Semantic+Priors+from+SAM+to+Efficient+Image+Restoration+Models&btnG=), 2024.
+   *Quan Zhang, Xiaoyu Liu, Wei Li, Hanting Chen, Junchao Liu, Jie Hu, Zhiwei Xiong, Chun Yuan, and Yunhe Wang.* [[pdf]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Distilling_Semantic_Priors_from_SAM_to_Efficient_Image_Restoration_Models_CVPR_2024_paper.pdf), [[cite]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Distilling+Semantic+Priors+from+SAM+to+Efficient+Image+Restoration+Models&btnG=), 2024.
 
 11. **Selective hourglass mapping for universal image restoration based on diffusion model.** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink)
 
