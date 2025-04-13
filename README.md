@@ -69,69 +69,91 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 #### Linear Decomposition
 
 - **Channel Consistency Prior and Self-Reconstruction Strategy Based Unsupervised Image Deraining** CVPR.
+  
   *Guanglu Dong*, *Tianheng Zheng*, *Yuanzhouhan Cao*, *Linbo Qing*, *Chao Ren*. [[pdf]](https://arxiv.org/pdf/2503.18703), [[github]](https://github.com/GuangluDong0728/CSUD-Unsupervised-Deraining-CVPR2025), 2025.
 
 - **Complexity Experts are Task-Discriminative Learners for Any Image Restoration** CVPR.
+  
   *Eduard Zamfir*, *Zongwei Wu*, *Nancy Mehta*, *Yuedong Tan*, *Danda Paudel*, *Yulun Zhang*, *Radu Timofte*, 2025.
 
 - **Visual-Instructed Degradation Diffusion for All-in-One Image Restoration** CVPR.
+  
   *Haina Qin*, *Wenyang Luo*, *Zewen Chen*, *Yufan Liu*, *Bing Li*, *Weiming Hu*, *libin wang*, *DanDan Zheng*, *Yuming Li*, 2025.
 
 - **UHD-processer: Unified UHD Image Restoration with Progressive Frequency Learning and Degradation-aware Prompts** CVPR.
+  
   *Yidi Liu · Dong Li · Xueyang Fu · Xin Lu · Jie Huang · Zheng-Jun Zha*, 2025.
 
 - **Adapting Text-to-Image Generation with Feature Difference Instruction for Generic Image Restoration** CVPR.
+  
   *Chao Wang · Hehe Fan · Huichen Yang · Sarvnaz Karimi · Lina Yao · Yi Yang*, 2025.
 
 - **Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models (and Beyond)** CVPR.
+  
   *Tomer Garber · Tom Tirer*, 2025.
 
 - **A Regularization-Guided Equivariant Approach for Image Restoration** CVPR.
+  
   *Yulu Bai · Jiahong Fu · Qi Xie · Deyu Meng*, 2025.
 
 - **ACL: Activating Capability of Linear Attention for Image Restoration** CVPR.
+  
   *Yubin Gu · Yuan Meng · Jiayi Ji · Xiaoshuai Sun*, 2025.
 
 - **GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration** CVPR.
+  
   *Sudarshan Rajagopalan · Nithin Gopalakrishnan Nair · Jay Paranjape · Vishal M. Patel*, 2025.
 
 - **UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior** CVPR.
+  
   *I-Hsiang (Aaron) Chen · Wei-Ting Chen · Yu-Wei Liu · Yuan-Chun Chiang · Sy-Yen Kuo · Ming-Hsuan Yang*, 2025.
 
 - **VolFormer: Explore More Comprehensive Cube Interaction for Hyperspectral Image Restoration and Beyond** CVPR.
+  
   *Dabing Yu · Zheng Gao*, 2025.
 
 - **Inverting Flow for Image Restoration** CVPR.
+  
   *Haina Qin · Wenyang Luo · Bing Li · Weiming Hu · libin wang · DanDan Zheng · Jingdong Chen · Ming Yang*, 2025.
 
 - **JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration** CVPR.
+  
   *Yunlong Lin · Zixu Lin · Haoyu Chen · Panwang Pan · Chenxin Li · Sixiang Chen · Kairun Wen · Yeying Jin · Wenbo Li · Xinghao Ding*, 2025.
 
 - **URWKV: Unified RWKV Model with Multi-state Perspective for Low-light Image Restoration** CVPR.
+  
   *Rui Xu · Yuzhen Niu · Yuezhou Li · Huangbiao Xu · Wenxi Liu · Yuzhong Chen*, 2025.
 
 - **Navigating Image Restoration with VAR’s Distribution Alignment Prior** CVPR.
+  
   *Siyang Wang · Naishan Zheng · Jie Huang · Feng Zhao*, 2025.
 
 - **Acquire and then Adapt: Squeezing out Text-to-Image Model for Image Restoration**, CVPR.
+  
   *Junyuan Deng · Xinyi Wu · Yongxing Yang · Congchao Zhu · Song Wang · Zhenyao Wu*, 2025.
 
 - **Reconciling Stochastic and Deterministic Strategies for Zero-shot Image Restoration using Diffusion Model in Dual** CVPR.
+  
   *Chong Wang · Lanqing Guo · Zixuan Fu · SIYUAN YANG · Hao Cheng · Alex C. Kot · Bihan Wen*, 2025.
 
 - **Visual-Instructed Degradation Diffusion for All-in-One Image Restoration** CVPR.
+  
   *Haina Qin · Wenyang Luo · Zewen Chen · Yufan Liu · Bing Li · Weiming Hu · libin wang · DanDan Zheng · Yuming Li*, 2025.
 
 - **Degradation-Aware Feature Perturbation for All-in-One Image Restoration** CVPR.
+  
   *Xiangpeng Tian · Xiangyu Liao · Xiao Liu · Meng Li · Chao Ren*, 2025.
 
 - **MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration** CVPR.
+  
   *Boyun Li · Haiyu Zhao · Wenxin Wang · Peng Hu · Yuanbiao Gou · Xi Peng*, 2025.
 
 - **Dual Prompting for Image Restoration across Full-Scene with Diffusion Transformers** CVPR.
+  
   *Dehong Kong · Fan Li · Zhixin Wang · Jiaqi Xu · Renjing Pei · Wenbo Li · Wenqi Ren*, 2025.
 
 - **From Zero to Detail: Deconstructing Ultra-High-Definition Image Restoration from Progressive Spectral Perspective** CVPR.
+  
   *Chen Zhao · Zhizhou Chen · Yunzhe Xu · Enxuan Gu · Jian Li · Zili Yi · qian Wang · Jian Yang · Ying Tai*, 2025.
 
 - **Towards real-world adverse weather image restoration: Enhancing clearness and semantics with vision-language models.** ECCV.![](https://img.shields.io/badge/image%20restoration-pink)
