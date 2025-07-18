@@ -148,10 +148,10 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
   
   *Sudarshan Rajagopalan · Nithin Gopalakrishnan Nair · Jay Paranjape · Vishal M. Patel*, 2025.
 
-- **UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior** CVPR.
+- **UniRestore: Unified Perceptual and Task-Oriented Image Restoration Model Using Diffusion Prior** CVPR. ![](https://img.shields.io/badge/image%20restoration-pink)![](https://img.shields.io/badge/project-blue) ![](https://img.shields.io/badge/pre%20train-green)
   
-  *I-Hsiang (Aaron) Chen · Wei-Ting Chen · Yu-Wei Liu · Yuan-Chun Chiang · Sy-Yen Kuo · Ming-Hsuan Yang*, 2025.
-
+  *I-Hsiang (Aaron) Chen, Wei-Ting Chen, Yu-Wei Liu, Yuan-Chun Chiang, Sy-Yen Kuo, Ming-Hsuan Yang*, [[pdf]](https://arxiv.org/pdf/2501.13134) [[github]](https://github.com/unirestore/UniRestore), [[project]](https://unirestore.github.io), 2025.
+  
 - **VolFormer: Explore More Comprehensive Cube Interaction for Hyperspectral Image Restoration and Beyond** CVPR.
   
   *Dabing Yu · Zheng Gao*, 2025.
