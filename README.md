@@ -20,7 +20,8 @@ Papers on Image de-raining which include recent prior based and learning based m
     - [Image de-raining meets high level vision](#High-Level)
   - [Other Contributors](#Other-Contributors)
 
-***News (2025-1-13)***: *Add ECCV 2024 papers.*
+***News (2025-7-18)***: *Add ICCV 2025 papers.*
+***News (2025-7-18)***: *Add codes and project link to UniRestore (CVPR'25 Highlight)*
 
 ## Introduction
 
