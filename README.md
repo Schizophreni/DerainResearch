@@ -68,6 +68,50 @@ This is a paper list about *image de-raining* researches. Image de-raining focus
 
 #### Linear Decomposition
 
+- **UniRes: Universal Image Restoration for Complex Degradations**. ICCV
+
+  *Mo Zhou, Keren Ye, Mauricio Delbracio, Peyman Milanfar, Vishal Patel, Hossein Talebi.* [[pdf]](https://arxiv.org/pdf/2506.05599), 2025.
+
+- **LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**. ICCV
+
+  *Li Huaqiu, Yong Wang, Tongwen Huang, Hailang Huang, Haoqian Wang, Xiangxiang Chu.* [[pdf]](https://arxiv.org/pdf/2507.00790v2), 2025.
+
+- **MOERL: When Mixture-of-Experts Meet Reinforcement Learning for Adverse Weather Image Restoration**. ICCV
+
+  *Tao Wang, Peiwen Xia, Bo Li, Peng-Tao Jiang, Zhe Kong, Kaihao Zhang, Tong Lu, Wenhan Luo*. 2025.
+
+- **Frequency-Guided Posterior Sampling for Diffusion-Based Image Restoration**. ICCV
+
+  *Darshan Thaker, Abhishek Goyal, Rene Vidal*, [[pdf]](https://arxiv.org/pdf/2411.15295), 2025.
+
+- **Dual-level Prototype Learning for Composite Degraded Image Restoration**. ICCV
+
+  *Zhongze Wang, Haitao Zhao, Lujian Yao, Jingchao Peng, Kaijie Zhao*. 
+
+- **EAMamba - Efficient All-Around Vision State Space Model for Image Restoration**. ICCV
+
+  *Yu-Cheng Lin, Yu-Syuan Xu, Hao-Wei Chen, Hsien-Kai Kuo, Chun-Yi Lee*, [[pdf]](https://arxiv.org/pdf/2506.22246), 2025.
+  
+- **Exploiting Diffusion Prior for Task-driven Image Restoration**. ICCV
+
+  *Jaeha Kim, Junghun Oh, Kyoung Mu Lee*. 2025.
+
+- **FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration**. ICCV
+
+  *Hao Li, Xiang Chen, Jiangxin Dong, Jinhui Tang, Jinshan Pan*. [[pdf]](https://arxiv.org/pdf/2412.01427), 2025.
+
+- **Devil is in the Uniformity: Exploring Diverse Learners within Transformer for Image Restoration**. ICCV
+
+  *Shihao Zhou, Dayu Li, Jinshan Pan, Juncheng Zhou, Jinglei Shi, Jufeng Yang*. [[pdf]](https://arxiv.org/pdf/2503.20174), 2025.
+
+- **Enhancing Image Restoration Transformer via Adaptive Translation Equivariance**. ICCV
+
+  *JiaKui Hu, Zhengjian Yao, Lujia Jin, Hangzhou He, Yanye Lu*. [[pdf]](https://arxiv.org/pdf/2506.18520), 2025.
+  
+- **Reverse Convolution and Its Applications to Image Restoration** ICCV
+
+  *Xuhong Huang, Shiqi Liu, Kai Zhang, Ying Tai, Jian Yang, Hui Zeng, Lei Zhang*. 2025.
+
 - **Channel Consistency Prior and Self-Reconstruction Strategy Based Unsupervised Image Deraining** CVPR.
   
   *Guanglu Dong*, *Tianheng Zheng*, *Yuanzhouhan Cao*, *Linbo Qing*, *Chao Ren*. [[pdf]](https://arxiv.org/pdf/2503.18703), [[github]](https://github.com/GuangluDong0728/CSUD-Unsupervised-Deraining-CVPR2025), 2025.
